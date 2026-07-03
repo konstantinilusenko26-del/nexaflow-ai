@@ -5,7 +5,7 @@ import "./globals.css";
 const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
 
-const SITE_URL = "https://nexaflow-ai.vercel.app";
+const SITE_URL = "https://nexaflow-ai-nu.vercel.app";
 const TITLE = "NexaFlow AI — AI Automation for Modern Businesses";
 const DESCRIPTION =
   "NexaFlow AI designs AI-powered systems that automate repetitive tasks, improve customer experience and help businesses grow faster.";
